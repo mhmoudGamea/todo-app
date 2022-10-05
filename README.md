@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-#####screenshots about this app in demo screenshot folder
+##### screenshots about this app in demo screenshot folder
 
 - this application was just for practice on sqflite package and database transactions i use here rowQuery, rawInsert, rowUpdate, rowDelete
 - i practice on creating database and using path package to define and create it
